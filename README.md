@@ -3,7 +3,7 @@ This repository contains material for the python workshop on deep learning in co
 
 This repository can be accessed via this short link:
 
-<p style="text-align: center;"> **bit.ly/dl-in-cv** </p>
+<p style="text-align: center;"> bit.ly/dl-in-cv </p>
 
 ## Acknowledgment
 
