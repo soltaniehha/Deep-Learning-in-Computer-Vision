@@ -4,7 +4,7 @@ This repository contains material for the python workshop on deep learning in co
 This repository can be accessed via this short link:
 
 ```diff
-- bit.ly/dl-in-cv
+- www.bit.ly/dl-in-cv
 ```
 
 ## Acknowledgment
