@@ -14,3 +14,5 @@ This repository can be accessed via this short link:
 * Some content of a handful of notebooks come from [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas (under the [MIT license](LICENSE-CODE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT)). Modifications and updates have been made.
 
 * The content of notebook 12-Exploratory-Data-Analysis.ipynb comes primarily from [a Kaggle notebook](https://www.kaggle.com/jsaguiar/exploratory-analysis-with-seaborn) by *Aguiar*.
+
+* Some notebooks are corresponding chapters of [Deep Learning with python](https://www.manning.com/books/deep-learning-with-python)
