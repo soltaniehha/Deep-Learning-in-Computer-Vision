@@ -1,11 +1,17 @@
 # Deep-Learning-in-Computer-Vision
-This repository contains material for the python workshop on deep learning in computer vision
+This repository contains material for the python workshop on deep learning in computer vision.
+
+We start with the basics of python, and get to work with some of the fundamental python libraries for data science such as: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, and more. We then dive into `Keras` with `tensorflow` backend and focus on image classification tasks. The Convolutional Neural Network (CNN) models we create varry from fully training to transfer learning to fine-tuning with transfer learning. Students will complete this workshop by working on a dataset of their choice to train a fully functioning model using Keras.
 
 This repository can be accessed via this short link:
 
-```diff
-- www.bit.ly/dl-in-cv
-```
+
+# [bit.ly/dl-in-cv](https://github.com/soltaniehha/Deep-Learning-in-Computer-Vision)
+
+## Textbooks
+* [A Whirlwind Tour of the Python Language](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) by Jake VanderPlas
+* [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet
+
 
 ## Acknowledgment
 
@@ -15,4 +21,4 @@ This repository can be accessed via this short link:
 
 * The content of notebook 12-Exploratory-Data-Analysis.ipynb comes primarily from [a Kaggle notebook](https://www.kaggle.com/jsaguiar/exploratory-analysis-with-seaborn) by *Aguiar*.
 
-* Some notebooks are corresponding chapters of [Deep Learning with python](https://www.manning.com/books/deep-learning-with-python)
+* Notebooks on the second half of the workshop are corresponding chapters of [Deep Learning with python](https://www.manning.com/books/deep-learning-with-python)
