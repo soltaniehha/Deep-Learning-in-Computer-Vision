@@ -21,4 +21,4 @@ This repository can be accessed via this short link:
 
 * The content of notebook 12-Exploratory-Data-Analysis.ipynb comes primarily from [a Kaggle notebook](https://www.kaggle.com/jsaguiar/exploratory-analysis-with-seaborn) by *Aguiar*.
 
-* Notebooks on the second half of the workshop are corresponding chapters of [Deep Learning with python](https://www.manning.com/books/deep-learning-with-python)
+* Notebooks on the second half of the workshop are corresponding chapters of [Deep Learning with Python (2nd edition)](https://www.manning.com/books/deep-learning-with-python-second-edition)
