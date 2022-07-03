@@ -10,7 +10,7 @@ This repository can be accessed via this short link:
 
 ## Textbooks
 * [A Whirlwind Tour of the Python Language](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) by Jake VanderPlas
-* [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet
+* [Deep Learning with Python (2nd edition)](https://www.manning.com/books/deep-learning-with-python-second-edition) by François Chollet
 
 
 ## Acknowledgment
